@@ -1,0 +1,1 @@
+# QA-Projects-Tablas-de-equivalencia
